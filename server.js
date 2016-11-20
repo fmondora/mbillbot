@@ -15,7 +15,6 @@ var slapp = Slapp({
   convo_store: ConvoStore(),
   context: Context()
 })
-require('beepboop-slapp-presence-polyfill')(slapp)
 
 
 
